@@ -11,11 +11,11 @@ from cvlib.object_detection import draw_bbox
 import numpy as np
 import time
 from tkinter import *
-os.chdir('/Users/yalegenomecenter/Desktop/vehicle_counting_tensorflow-master/Revision 03_08_2020/images')
-vid = cv2.VideoCapture('/Users/yalegenomecenter/Desktop/vehicle_counting_tensorflow-master/Revision 03_08_2020/images/Road traffic video for object recognition.mp4')
-vid2 = cv2.VideoCapture('/Users/yalegenomecenter/Desktop/vehicle_counting_tensorflow-master/Revision 03_08_2020/images/Road traffic video for object recognition.mp4')
-vid3 = cv2.VideoCapture('/Users/yalegenomecenter/Desktop/vehicle_counting_tensorflow-master/Revision 03_08_2020/images/camera3.mp4')
-vid4 = cv2.VideoCapture('/Users/yalegenomecenter/Desktop/vehicle_counting_tensorflow-master/Revision 03_08_2020/images/camera4.mp4')
+os.chdir('/Users/pawar/Desktop/Revision 03_08_2020/images')
+vid = cv2.VideoCapture(0)
+vid2 = cv2.VideoCapture('/Users/pawar/Desktop/Revision 03_08_2020/images/Road traffic video for object recognition.mp4')
+vid3 = cv2.VideoCapture('/Users/pawar/Desktop/Revision 03_08_2020/images/camera3.mp4')
+vid4 = cv2.VideoCapture('/Users/pawar/Desktop/Revision 03_08_2020/images/camera4.mp4')
 '''
 if not os.path.exists('images'):
     os.makedirs('images')
