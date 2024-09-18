@@ -10,3 +10,4 @@ from utils import visualization_utils as vis_util]
 <img width="409" alt="Biorxiv" src="https://github.com/spawar2/Object-Recognition-Python/assets/25118302/87db1c67-25aa-428b-856c-a679310fe91b">
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
+https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
