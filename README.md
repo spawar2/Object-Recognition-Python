@@ -14,4 +14,4 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 
 Spotting_Program.py: Data read: OpenCV video capture, Test-Train Split, Neural, plotting, noise removal, Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 open_parking_alert.py, vehicle_detection_main.py: Kivy application development, Mask-RCNN.
-function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
+selected function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
