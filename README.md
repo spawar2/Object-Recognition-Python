@@ -1,4 +1,4 @@
-# Object-Recognition-Python. December, 9, 2024.
+# Object-Recognition-Python. Date created/updated: December, 9, 2024.
 [Python: numpy, os, urllib, sys, tarfile, tensorflow, zipfile, cv2, csv, time, collections, defaultdict, StringIO, matplotlib, PIL].
 
 # Object detection imports
