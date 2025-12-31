@@ -17,7 +17,7 @@ Single shot detector application for image disease localization, Shrikant Pawar,
 Spotting_Program.py: Data read: OpenCV video capture, Test-Train Split, Neural, plotting, noise removal, Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 open_parking_alert.py, vehicle_detection_main.py: Kivy application development, Mask-RCNN.
 selected function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows).
-
+Accuracy (3, 5, 10 Fold similar values).
 
 https://www.java.com/
 https://www.php.net/
